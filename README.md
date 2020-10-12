@@ -46,8 +46,8 @@ sudo defaults write org.x.X11 nolisten_tcp 0
 * Start your shell, (Terminal > New Terminal ) when the container has been built, You might need to select from the shell drop-down in the Terminal Window
 
 ## Rebuilding & Stopping the Container
-You can rebuild the container at any time. If you started an X Server, ou can test
-this out with the following, run form within the shell in VSCode.
+You can rebuild the container at any time. If you started an X Server, you can test
+this out with the following, run from within the shell in VSCode.
 
 ```sh
 # Enjoy all the XOrg goodness
